@@ -23,7 +23,7 @@ int main() {
 
   cout.setf(ios::fixed); cout << setprecision(5);
   cout << 100.0/7.0 << endl;
-  cout.unsetf(ios::fixed
+  cout.unsetf(ios::fixed);
 
   // Output the decimal point and trailing zeros
   cout.setf(ios::showpoint); cout << 100.0 << endl; cout.unsetf(ios::showpoint);

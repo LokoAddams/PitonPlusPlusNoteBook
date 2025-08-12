@@ -1,46 +1,60 @@
 #include <bits/stdc++.h>
-
-#define fi first
-#define se second
-#define forn(i,n) for(int i=0; i< (int)n; ++i)
-#define for1(i,n) for(int i=1; i<= (int)n; ++i)
-#define fore(i,l,r) for(int i=(int)l; i<= (int)r; ++i)
-#define ford(i,n) for(int i=(int)(n) - 1; i>= 0; --i)
-#define fored(i,l,r) for(int i=(int)r; i>= (int)l; --i)
-#define pb push_back
-#define el '\n'
-#define d(x) cout<< #x<< " " << x<<el
-#define ri(n) scanf("%d",&n)
-#define sz(v) int(v.size())
-#define all(v) v.begin(),v.end()
-
 using namespace std;
 
+//IMPRESINDIBLES PARA ICPC
+#define form(i, s, e) for(int i = s; i < e; i++)
+#define icin(x)  \
+  int x;         \
+  cin >> x;
+#define llcin(x) \
+  long long x;   \
+  cin >> x;
+#define scin(x)  \
+string x;        \
+cin >> x;
+#define endl '\n'
+#define S second
+#define F first
+#define pb push_back
+#define sz(x) x.size()
+#define all(x) x.begin(),x.end()
+
 typedef long long ll;
-typedef double ld;
-typedef pair<int,int> ii;
-typedef pair<ll,ll> pll;
-typedef tuple<int, int, int> iii;
 typedef vector<int> vi;
-typedef vector<ii> vii;
+typedef vector<vi> vvi;
+typedef pair<int,int> pii;
+
+const ll INF =  1e9+7;//tambien es primo
+const double PI = acos(-1);
+//UTILES
+#define DBG(x) cerr << #x << '=' << (x) << endl
+#define coutDouble cout << fixed << setprecision(17)
+#define numtobin(n) bitset<32>(n).to_string()
+#define bintoint(bin_str) stoi(bin_str, nullptr, 2)  // bin_str should be a STRING
+#define LSOne(S) ((S) & -(S))
+
+typedef double db;
+typedef vector<string> vs;
 typedef vector<ll> vll;
-typedef vector<ld> vd;
+typedef vector<vll> vvll;
+typedef pair<int,bool> pib;
+typedef pair<ll,ll> pll;
+typedef vector<pii> vpii;
+typedef vector<pib> vpib;
+typedef vector<pll> vpll;
 
 
-const int inf = 1e9;
-const int nax = 1e5+200;
-const ld pi = acos(-1);
-const ld eps= 1e-9;
 
-int dr[] = {1,-1,0, 0,1,-1,-1, 1};
-int dc[] = {0, 0,1,-1,1, 1,-1,-1};
 
-ostream& operator<<(ostream& os, const ii& pa) { // DEBUGGING
-  return os << "("<< pa.fi << ", " << pa.se << ")";
-}
+int main() {
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  cout.tie(0);
 
-int main(){
-  ios_base::sync_with_stdio(false);
-  cin.tie(NULL); cout.tie(NULL);
-  cout << setprecision(20)<< fixed;
+  icin(nn0)
+  while (nn0--) {
+    
+  }
+
+  return 0;
 }
