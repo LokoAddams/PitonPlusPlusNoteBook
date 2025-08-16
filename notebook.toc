@@ -1,42 +1,45 @@
 \contentsline {section}{\numberline {1}C++}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}C++ template}{2}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Opcion}{3}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Bits Manipulation}{3}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Random}{3}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Custom Hash}{3}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Other}{4}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.3}Comand to compare output}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Linux}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}windows}{3}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}Bits Manipulation}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Random}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Custom Hash}{3}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Other}{4}{subsection.1.7}%
 \contentsline {section}{\numberline {2}Strings}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Z's Algorithm}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}KMP}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Hashing}{5}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Manacher Algorithm}{5}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}Minimum Expression}{5}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Trie}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.6}Trie}{6}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}Suffix Array}{6}{subsection.2.7}%
 \contentsline {subsection}{\numberline {2.8}Aho-Corasick}{6}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}Suffix Automaton}{7}{subsection.2.9}%
 \contentsline {subsection}{\numberline {2.10}Palindromic Tree}{7}{subsection.2.10}%
 \contentsline {subsection}{\numberline {2.11}Suffix Tree}{8}{subsection.2.11}%
-\contentsline {section}{\numberline {3}Graph algorithms}{8}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Articulation Points and Bridges}{8}{subsection.3.1}%
+\contentsline {section}{\numberline {3}Graph algorithms}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Articulation Points and Bridges}{9}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Biconnected Components}{9}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Topological Sort}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Topological Sort}{10}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Kosaraju: Strongly connected components}{10}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Tarjan: Strongly connected components}{10}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}MST Kruskal}{10}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7}MST Prim}{10}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Dijkstra}{10}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.8}Dijkstra}{11}{subsection.3.8}%
 \contentsline {subsection}{\numberline {3.9}Bellman-Ford}{11}{subsection.3.9}%
 \contentsline {subsection}{\numberline {3.10}Shortest Path Faster Algorithm}{11}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Floyd-Warshall}{11}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.11}Floyd-Warshall}{12}{subsection.3.11}%
 \contentsline {subsection}{\numberline {3.12}LCA Binary Lifting}{12}{subsection.3.12}%
 \contentsline {subsection}{\numberline {3.13}2 SAT}{12}{subsection.3.13}%
-\contentsline {subsection}{\numberline {3.14}2 SAT Kosaraju y Tarjan}{12}{subsection.3.14}%
-\contentsline {subsection}{\numberline {3.15}Centroid Decomposition}{13}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.14}2 SAT Kosaraju y Tarjan}{13}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}Centroid Decomposition}{14}{subsection.3.15}%
 \contentsline {subsection}{\numberline {3.16}Tree Binarization}{14}{subsection.3.16}%
 \contentsline {subsection}{\numberline {3.17}Eulerian Path}{14}{subsection.3.17}%
-\contentsline {section}{\numberline {4}Flows}{14}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Edmons-Karp}{14}{subsection.4.1}%
+\contentsline {section}{\numberline {4}Flows}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Edmons-Karp}{15}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Dinic}{15}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Push-Relabel}{16}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Konig}{17}{subsection.4.4}%
@@ -54,20 +57,20 @@
 \contentsline {subsection}{\numberline {5.6}ST Lazy Propagation}{21}{subsection.5.6}%
 \contentsline {subsection}{\numberline {5.7}Persistent ST}{22}{subsection.5.7}%
 \contentsline {subsection}{\numberline {5.8}Segtree 2D}{22}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}Segtree iterativo}{22}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.9}Segtree iterativo}{23}{subsection.5.9}%
 \contentsline {subsection}{\numberline {5.10}RMQ}{23}{subsection.5.10}%
 \contentsline {subsection}{\numberline {5.11}Sack}{23}{subsection.5.11}%
 \contentsline {subsection}{\numberline {5.12}Heavy Light Decomposition}{23}{subsection.5.12}%
 \contentsline {subsection}{\numberline {5.13}Treap}{24}{subsection.5.13}%
-\contentsline {subsection}{\numberline {5.14}Implicit Treap}{24}{subsection.5.14}%
+\contentsline {subsection}{\numberline {5.14}Implicit Treap}{25}{subsection.5.14}%
 \contentsline {subsection}{\numberline {5.15}Implicit Treap Father}{25}{subsection.5.15}%
 \contentsline {subsection}{\numberline {5.16}Ordered Set}{25}{subsection.5.16}%
 \contentsline {subsection}{\numberline {5.17}Mo's Algorithm}{26}{subsection.5.17}%
 \contentsline {subsection}{\numberline {5.18}Dynamic Connectivity}{26}{subsection.5.18}%
-\contentsline {subsection}{\numberline {5.19}Link Cut Tree}{26}{subsection.5.19}%
+\contentsline {subsection}{\numberline {5.19}Link Cut Tree}{27}{subsection.5.19}%
 \contentsline {section}{\numberline {6}Math}{27}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Sieve of Eratosthenes}{27}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Count primes}{27}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.2}Count primes}{28}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Segmented Sieve}{28}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}Polynomial Multiplication}{28}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}Fast Fourier Transform}{28}{subsection.6.5}%
@@ -78,26 +81,26 @@
 \contentsline {subsection}{\numberline {6.10}Euler's Totient Function}{30}{subsection.6.10}%
 \contentsline {subsection}{\numberline {6.11}Extended Euclidean (Diophantic)}{30}{subsection.6.11}%
 \contentsline {subsection}{\numberline {6.12}Inversa modular}{30}{subsection.6.12}%
-\contentsline {subsection}{\numberline {6.13}Legendre's Formula}{30}{subsection.6.13}%
+\contentsline {subsection}{\numberline {6.13}Legendre's Formula}{31}{subsection.6.13}%
 \contentsline {subsection}{\numberline {6.14}Mobious}{31}{subsection.6.14}%
 \contentsline {subsection}{\numberline {6.15}Miller Rabin Test}{31}{subsection.6.15}%
-\contentsline {subsection}{\numberline {6.16}Pollard Rho}{31}{subsection.6.16}%
+\contentsline {subsection}{\numberline {6.16}Pollard Rho}{32}{subsection.6.16}%
 \contentsline {subsection}{\numberline {6.17}Chinese Remainder Theorem}{32}{subsection.6.17}%
 \contentsline {subsection}{\numberline {6.18}Simplex}{32}{subsection.6.18}%
 \contentsline {subsection}{\numberline {6.19}Gauss Jordan}{33}{subsection.6.19}%
 \contentsline {subsection}{\numberline {6.20}Gauss Jordan Modular}{33}{subsection.6.20}%
 \contentsline {subsection}{\numberline {6.21}Berlekamp Massey}{33}{subsection.6.21}%
 \contentsline {subsection}{\numberline {6.22}Lagrange Interpolation}{34}{subsection.6.22}%
-\contentsline {subsection}{\numberline {6.23}Discrete Log}{34}{subsection.6.23}%
+\contentsline {subsection}{\numberline {6.23}Discrete Log}{35}{subsection.6.23}%
 \contentsline {subsection}{\numberline {6.24}Fractions}{35}{subsection.6.24}%
 \contentsline {subsection}{\numberline {6.25}Modular Int}{35}{subsection.6.25}%
-\contentsline {section}{\numberline {7}Dynamic Programming}{35}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Edit Distance}{35}{subsection.7.1}%
+\contentsline {section}{\numberline {7}Dynamic Programming}{36}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Edit Distance}{36}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Longest common subsequence}{36}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Longest increasing subsequence}{36}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Trick to merge intervals}{36}{subsection.7.4}%
 \contentsline {subsection}{\numberline {7.5}Trick Sets DP}{36}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Divide and Conquer}{36}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.6}Divide and Conquer}{37}{subsection.7.6}%
 \contentsline {subsection}{\numberline {7.7}Knuth's Optimization}{37}{subsection.7.7}%
 \contentsline {subsection}{\numberline {7.8}Convex Hull Trick}{37}{subsection.7.8}%
 \contentsline {subsection}{\numberline {7.9}CH Trick Dynamic}{37}{subsection.7.9}%
@@ -115,12 +118,12 @@
 \contentsline {subsection}{\numberline {9.1}Counting Sort}{44}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}Expression Parsing}{44}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}Ternary Search}{45}{subsection.9.3}%
-\contentsline {section}{\numberline {10}Theory}{46}{section.10}%
-\contentsline {subsection}{DP Optimization Theory}{46}{section*.1}%
-\contentsline {subsection}{Combinatorics}{46}{section*.2}%
-\contentsline {subsection}{Number Theory}{47}{section*.3}%
-\contentsline {subsection}{String Algorithms}{48}{section*.4}%
-\contentsline {subsection}{Graph Theory}{48}{section*.5}%
-\contentsline {subsection}{Games}{49}{section*.6}%
-\contentsline {subsection}{Bit tricks}{49}{section*.7}%
-\contentsline {subsection}{Math}{50}{section*.8}%
+\contentsline {section}{\numberline {10}Theory}{47}{section.10}%
+\contentsline {subsection}{DP Optimization Theory}{47}{section*.1}%
+\contentsline {subsection}{Combinatorics}{47}{section*.2}%
+\contentsline {subsection}{Number Theory}{48}{section*.3}%
+\contentsline {subsection}{String Algorithms}{49}{section*.4}%
+\contentsline {subsection}{Graph Theory}{49}{section*.5}%
+\contentsline {subsection}{Games}{50}{section*.6}%
+\contentsline {subsection}{Bit tricks}{50}{section*.7}%
+\contentsline {subsection}{Math}{51}{section*.8}%

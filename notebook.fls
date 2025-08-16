@@ -129,6 +129,8 @@ INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ams
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\notebook.aux
@@ -223,6 +225,12 @@ INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courie
 INPUT .\code\c++\alternativa.cpp
 INPUT .\code\c++\alternativa.cpp
 INPUT code\c++\alternativa.cpp
+INPUT .\code\c++\compare_output_linux.bash
+INPUT .\code\c++\compare_output_linux.bash
+INPUT code\c++\compare_output_linux.bash
+INPUT .\code\c++\compare_output_windows.cmd
+INPUT .\code\c++\compare_output_windows.cmd
+INPUT code\c++\compare_output_windows.cmd
 INPUT .\code\c++\bits.cpp
 INPUT .\code\c++\bits.cpp
 INPUT code\c++\bits.cpp
@@ -263,9 +271,9 @@ INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courie
 INPUT .\code\strings\aho_corasick.cpp
 INPUT .\code\strings\aho_corasick.cpp
 INPUT code\strings\aho_corasick.cpp
-INPUT .\code\strings\suffix_automaton.cpp
-INPUT .\code\strings\suffix_automaton.cpp
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8c.vf
+INPUT .\code\strings\suffix_automaton.cpp
+INPUT .\code\strings\suffix_automaton.cpp
 INPUT code\strings\suffix_automaton.cpp
 INPUT .\code\strings\palindromic_tree.cpp
 INPUT .\code\strings\palindromic_tree.cpp
@@ -546,6 +554,21 @@ INPUT code\miscellaneous\expression_parsing.cpp
 INPUT .\code\miscellaneous\ternary_search.cpp
 INPUT .\code\miscellaneous\ternary_search.cpp
 INPUT code\miscellaneous\ternary_search.cpp
+INPUT pictures.tex
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\Ascii.jpg
+INPUT .\code\pictures\DataTypes.jpg
+INPUT .\code\pictures\DataTypes.jpg
+INPUT .\code\pictures\DataTypes.jpg
+INPUT .\code\pictures\DataTypes.jpg
+INPUT .\code\pictures\DataTypes.jpg
+INPUT .\code\pictures\DataTypes.jpg
+INPUT .\code\pictures\DataTypes.jpg
 INPUT Theory.tex
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm

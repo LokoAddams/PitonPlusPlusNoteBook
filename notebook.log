@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.14)  12 AUG 2025 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.14)  12 AUG 2025 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -407,10 +407,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
+) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks26
+\float@box=\box101
+\@float@everytoks=\toks27
+\@floatcapt=\box102
 ) (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count308
-\l__pdf_internal_box=\box101
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box103
 )
 
 LaTeX Warning: Unused global option(s):
@@ -419,24 +426,24 @@ LaTeX Warning: Unused global option(s):
 (notebook.aux)
 \openout1 = `notebook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -472,36 +479,36 @@ LaTeX Font Info:    ... okay on input line 70.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 71.
 (notebook.out) (notebook.out)
 \@outlinefile=\write3
 \openout3 = `notebook.out'.
 
-\c@lstlisting=\count309
+\c@lstlisting=\count310
  (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count310
+\scratchcounter=\count311
 \scratchdimen=\dimen177
-\scratchbox=\box102
-\nofMPsegments=\count311
-\nofMParguments=\count312
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count313
+\scratchbox=\box104
+\nofMPsegments=\count312
+\nofMParguments=\count313
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count314
 \MPscratchDim=\dimen178
-\MPnumerator=\count314
-\makeMPintoPDFobject=\count315
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
  (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
  (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (notebook.toc [1
@@ -518,18 +525,18 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 3.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 4.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) (code/c++/template.cpp
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <10> not available
 (Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 4.
- [2{C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]) (code/c++/alternativa.cpp) (code/c++/bits.cpp) (code/c++/random.cpp) (code/c++/custom_hash.cpp) [3] (code/c++/other.cpp) (code/strings/z_algorithm.cpp) (code/strings/KMP.cpp [4]) (code/strings/hashing.cpp) (code/strings/Manacher.cpp) (code/strings/minimum_expression.cpp) (code/strings/trie.cpp [5]) (code/strings/suffix_array.cpp
+ [2{C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]) (code/c++/alternativa.cpp) (code/c++/compare_output_linux.bash) (code/c++/compare_output_windows.cmd) (code/c++/bits.cpp) (code/c++/random.cpp) (code/c++/custom_hash.cpp [3]) (code/c++/other.cpp) (code/strings/z_algorithm.cpp) (code/strings/KMP.cpp [4]) (code/strings/hashing.cpp) (code/strings/Manacher.cpp) (code/strings/minimum_expression.cpp) [5] (code/strings/trie.cpp) (code/strings/suffix_array.cpp
 LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 5.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1pcr.fd
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
-)) (code/strings/aho_corasick.cpp) [6] (code/strings/suffix_automaton.cpp) (code/strings/palindromic_tree.cpp [7]) (code/strings/suffix_tree.cpp) (code/graph/articulationpointandbridge.cpp [8]) (code/graph/blockcuttree.cpp) (code/graph/Topo_sort.cpp [9]) (code/graph/kosaraju.cpp) (code/graph/tarjanSCC.cpp) (code/graph/mst_kruskal.cpp) (code/graph/mst_prim.cpp) (code/graph/dijkstra.cpp [10]) (code/graph/Bellmanford.cpp) (code/graph/spfa.cpp) (code/graph/floyd_warshall.cpp [11]) (code/graph/LCA_binarylifting.cpp) (code/graph/2sat.cpp) (code/graph/2satkosarajuytarjan.cpp [12]) (code/graph/centroid_decomposition.cpp [13]) (code/graph/tree_binarization.cpp) (code/graph/eulerian_path.cpp) (code/flows/edmons_karp.cpp [14]) (code/flows/dinic.cpp [15]) (code/flows/pushrelabel.cpp) [16] (code/flows/konig.cpp) (code/flows/maxbipmatching.cpp) (code/flows/hungarian.cpp [17]) (code/flows/min_cost_max_flow.cpp) (code/flows/min_cost_max_flow_marcos.cpp [18]
+)) (code/strings/aho_corasick.cpp [6]) (code/strings/suffix_automaton.cpp) (code/strings/palindromic_tree.cpp [7]) (code/strings/suffix_tree.cpp) [8] (code/graph/articulationpointandbridge.cpp) (code/graph/blockcuttree.cpp [9]) (code/graph/Topo_sort.cpp) (code/graph/kosaraju.cpp) (code/graph/tarjanSCC.cpp) (code/graph/mst_kruskal.cpp) (code/graph/mst_prim.cpp [10]) (code/graph/dijkstra.cpp) (code/graph/Bellmanford.cpp) (code/graph/spfa.cpp [11]) (code/graph/floyd_warshall.cpp) (code/graph/LCA_binarylifting.cpp) (code/graph/2sat.cpp [12]) (code/graph/2satkosarajuytarjan.cpp) [13] (code/graph/centroid_decomposition.cpp) (code/graph/tree_binarization.cpp) (code/graph/eulerian_path.cpp) [14] (code/flows/edmons_karp.cpp) (code/flows/dinic.cpp [15]) (code/flows/pushrelabel.cpp [16]) (code/flows/konig.cpp) (code/flows/maxbipmatching.cpp) (code/flows/hungarian.cpp [17]) (code/flows/min_cost_max_flow.cpp) (code/flows/min_cost_max_flow_marcos.cpp [18]
 Overfull \hbox (11.15912pt too wide) in paragraph at lines 34--35
 [][][] 
  []
@@ -539,7 +546,36 @@ Overfull \hbox (5.15906pt too wide) in paragraph at lines 35--36
 [][][] 
  []
 
-) (code/flows/blossom.cpp [19]) (code/data-structures/unionfind.cpp) (code/data-structures/sqrt_decomposition.cpp) (code/data-structures/fenwick_tree.cpp) [20] (code/data-structures/fenwick_tree2d.cpp) (code/data-structures/seg_treerecursivo.cpp) (code/data-structures/seg_tree_lazy_prop.cpp [21]) (code/data-structures/seg_tree_persistent.cpp) (code/data-structures/seg_tree_2d_iterativo.cpp) (code/data-structures/seg_tree_iterativo.cpp [22]) (code/data-structures/RMQ.cpp) (code/data-structures/sack.cpp) (code/data-structures/hld.cpp [23]) (code/data-structures/treap.cpp) (code/data-structures/implicit_treap.cpp [24]) (code/data-structures/implicit_treap_father.cpp) (code/data-structures/ordered_set.cpp [25]) (code/data-structures/mos_algo.cpp) (code/data-structures/dynamic_connectivity.cpp) (code/data-structures/link_cut_tree.cpp [26]) (code/math/sieve_eratosthenes.cpp) (code/math/count_primes.cpp [27]) (code/math/segmented_sieve.cpp) (code/math/mult_polinomios.cpp) (code/math/fft.cpp [28]) (code/math/fht.cpp) (code/math/fibolog.cpp) (code/math/matrix_expo.cpp [29]) (code/math/binpow.cpp) (code/math/euler_totient_function.cpp) (code/math/extended_euclidean.cpp) (code/math/inversamod.cpp) (code/math/legendre_formula.cpp [30]) (code/math/mobious.cpp) (code/math/miller_rabin.cpp) (code/math/pollard_rho.cpp [31]) (code/math/CRT.cpp) (code/math/simplex.cpp [32]) (code/math/gaussjordan.cpp) (code/math/gaussjordan_modular.cpp) (code/math/berlekamp_massey.cpp [33]) (code/math/lagrange_interpolation.cpp) (code/math/discrete_log.cpp [34]) (code/math/frac.cpp) (code/math/mint.cpp) (code/dynamic-programming/edit_distance.cpp [35]) (code/dynamic-programming/lcs.cpp) (code/dynamic-programming/lis.cpp) (code/dynamic-programming/merging_intervals.cpp) (code/dynamic-programming/sos_dp.cpp) (code/dynamic-programming/dpdivideandconquer.cpp [36]) (code/dynamic-programming/knuth_optimization.cpp) (code/dynamic-programming/chulltrick.cpp) (code/dynamic-programming/chulltrickdynamic.cpp [37]) (code/geometry/point.cpp) [38] (code/geometry/line.cpp) (code/geometry/convex_hull.cpp) (code/geometry/polygon.cpp [39] [40]) (code/geometry/circle.cpp [41]) (code/geometry/radial_order.cpp) (code/geometry/halfplane.cpp) (code/geometry/KDTree.cpp [42]) (code/geometry/minkowski_sum.cpp [43]) (code/miscellaneous/counting_sort.cpp) (code/miscellaneous/expression_parsing.cpp) [44] (code/miscellaneous/ternary_search.cpp)) [45] (Theory.tex
+) (code/flows/blossom.cpp [19]) (code/data-structures/unionfind.cpp) (code/data-structures/sqrt_decomposition.cpp) (code/data-structures/fenwick_tree.cpp [20]) (code/data-structures/fenwick_tree2d.cpp) (code/data-structures/seg_treerecursivo.cpp) (code/data-structures/seg_tree_lazy_prop.cpp [21]) (code/data-structures/seg_tree_persistent.cpp) (code/data-structures/seg_tree_2d_iterativo.cpp) [22] (code/data-structures/seg_tree_iterativo.cpp) (code/data-structures/RMQ.cpp) (code/data-structures/sack.cpp) (code/data-structures/hld.cpp [23]) (code/data-structures/treap.cpp) (code/data-structures/implicit_treap.cpp [24]) (code/data-structures/implicit_treap_father.cpp) (code/data-structures/ordered_set.cpp [25]) (code/data-structures/mos_algo.cpp) (code/data-structures/dynamic_connectivity.cpp) [26] (code/data-structures/link_cut_tree.cpp) (code/math/sieve_eratosthenes.cpp) (code/math/count_primes.cpp [27]) (code/math/segmented_sieve.cpp) (code/math/mult_polinomios.cpp) (code/math/fft.cpp [28]) (code/math/fht.cpp) (code/math/fibolog.cpp) (code/math/matrix_expo.cpp [29]) (code/math/binpow.cpp) (code/math/euler_totient_function.cpp) (code/math/extended_euclidean.cpp) (code/math/inversamod.cpp [30]) (code/math/legendre_formula.cpp) (code/math/mobious.cpp) (code/math/miller_rabin.cpp [31]) (code/math/pollard_rho.cpp) (code/math/CRT.cpp) (code/math/simplex.cpp [32]) (code/math/gaussjordan.cpp) (code/math/gaussjordan_modular.cpp) (code/math/berlekamp_massey.cpp [33]) (code/math/lagrange_interpolation.cpp) [34] (code/math/discrete_log.cpp) (code/math/frac.cpp) (code/math/mint.cpp) [35] (code/dynamic-programming/edit_distance.cpp) (code/dynamic-programming/lcs.cpp) (code/dynamic-programming/lis.cpp) (code/dynamic-programming/merging_intervals.cpp) (code/dynamic-programming/sos_dp.cpp [36]) (code/dynamic-programming/dpdivideandconquer.cpp) (code/dynamic-programming/knuth_optimization.cpp) (code/dynamic-programming/chulltrick.cpp) (code/dynamic-programming/chulltrickdynamic.cpp [37]) (code/geometry/point.cpp [38]) (code/geometry/line.cpp) (code/geometry/convex_hull.cpp) (code/geometry/polygon.cpp [39] [40]) (code/geometry/circle.cpp [41]) (code/geometry/radial_order.cpp) (code/geometry/halfplane.cpp [42]) (code/geometry/KDTree.cpp) (code/geometry/minkowski_sum.cpp [43]) (code/miscellaneous/counting_sort.cpp) (code/miscellaneous/expression_parsing.cpp [44]) (code/miscellaneous/ternary_search.cpp)) (pictures.tex
+<code/pictures/Ascii.jpg, id=4682, 939.51pt x 656.4525pt>
+File: code/pictures/Ascii.jpg Graphic file (type jpg)
+<use code/pictures/Ascii.jpg>
+Package pdftex.def Info: code/pictures/Ascii.jpg  used on input line 3.
+(pdftex.def)             Requested size: 409.72125pt x 286.27573pt.
+
+Overfull \hbox (49.87695pt too wide) in paragraph at lines 3--4
+ [][] 
+ []
+
+<code/pictures/DataTypes.jpg, id=4683, 338.76563pt x 183.68625pt>
+File: code/pictures/DataTypes.jpg Graphic file (type jpg)
+<use code/pictures/DataTypes.jpg>
+Package pdftex.def Info: code/pictures/DataTypes.jpg  used on input line 9.
+(pdftex.def)             Requested size: 307.2929pt x 166.62779pt.
+)
+Overfull \vbox (21.64278pt too high) has occurred while \output is active []
+
+ [45
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.85 \end{multicols}
+                     <./code/pictures/Ascii.jpg>] [46
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.87 \setlength
+               {\columnseprule}{0pt} <./code/pictures/DataTypes.jpg>] (Theory.tex
 Overfull \hbox (2.51555pt too wide) in paragraph at lines 6--6
 []\OT1/cmr/m/n/10 Name| 
  []
@@ -599,12 +635,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
 
-[46]
+[47]
 Overfull \hbox (42.1557pt too wide) in paragraph at lines 191--191
 []  \OT1/pcr/m/n/10 else        { gcdext(g, y, x, b, a % b); y = y - (a / b) * x; } }[] 
  []
 
-[47] [48]
+[48] [49]
 Overfull \hbox (18.1557pt too wide) in paragraph at lines 467--467
 []        \OT1/pcr/m/n/10 if seen[y] then output "LCA(x, y) is ancestor[Find(y)]"[] 
  []
@@ -614,7 +650,7 @@ Overfull \hbox (1.75795pt too wide) in paragraph at lines 554--564
 \OT1/cmr/m/n/10 For 64-bit un-signed in-te-ger type, use the suf-fix `[][]\OT1/pcr/m/n/10 ll[]\OT1/cmr/m/n/10 ', i.e. [][]\OT1/pcr/m/n/10 __builtin_popcountll[]\OT1/cmr/m/n/10 .
  []
 
-[49]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 601--612
 
  []
@@ -624,26 +660,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 674--675
 
  []
 
-[50]) [51] (notebook.aux)
+[51]) [52] (notebook.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: BADD3158FD4AAD35DC8EA49738AE56AA;16676.
+(rerunfilecheck)             Checksum: F91D3E052D5C58F2ADAAEB745907BE5C;17062.
  ) 
 Here is how much of TeX's memory you used:
- 19681 strings out of 474486
- 311864 string characters out of 5740415
- 2765542 words of memory out of 5000000
- 37390 multiletter control sequences out of 15000+600000
+ 19812 strings out of 474486
+ 314554 string characters out of 5740415
+ 2751542 words of memory out of 5000000
+ 37494 multiletter control sequences out of 15000+600000
  569604 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,95p,626b,2394s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Lucas Alcoba\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (51 pages, 1081603 bytes).
+Output written on notebook.pdf (52 pages, 1409721 bytes).
 PDF statistics:
- 5630 PDF objects out of 6186 (max. 8388607)
- 4044 named destinations out of 4296 (max. 500000)
- 1009 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5661 PDF objects out of 6186 (max. 8388607)
+ 4056 named destinations out of 4296 (max. 500000)
+ 1043 words of extra memory for PDF output out of 10000 (max. 10000000)
 
