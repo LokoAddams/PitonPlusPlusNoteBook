@@ -192,7 +192,9 @@ INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfo
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\Lucas Alcoba\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
 OUTPUT notebook.toc
 INPUT contents.tex
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -214,7 +216,7 @@ INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courie
 INPUT code\c++\template.cpp
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrb7t.tfm
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrro7t.tfm
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT C:\Users\Lucas Alcoba\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrb7t.vf
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrb8r.tfm
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
@@ -231,329 +233,103 @@ INPUT code\c++\compare_output_linux.bash
 INPUT .\code\c++\compare_output_windows.cmd
 INPUT .\code\c++\compare_output_windows.cmd
 INPUT code\c++\compare_output_windows.cmd
-INPUT .\code\c++\bits.cpp
-INPUT .\code\c++\bits.cpp
-INPUT code\c++\bits.cpp
-INPUT .\code\c++\random.cpp
-INPUT .\code\c++\random.cpp
-INPUT code\c++\random.cpp
 INPUT .\code\c++\custom_hash.cpp
 INPUT .\code\c++\custom_hash.cpp
 INPUT code\c++\custom_hash.cpp
-INPUT .\code\c++\other.cpp
-INPUT .\code\c++\other.cpp
-INPUT code\c++\other.cpp
-INPUT .\code\strings\z_algorithm.cpp
-INPUT .\code\strings\z_algorithm.cpp
-INPUT code\strings\z_algorithm.cpp
-INPUT .\code\strings\KMP.cpp
-INPUT .\code\strings\KMP.cpp
-INPUT code\strings\KMP.cpp
-INPUT .\code\strings\hashing.cpp
-INPUT .\code\strings\hashing.cpp
-INPUT code\strings\hashing.cpp
-INPUT .\code\strings\Manacher.cpp
-INPUT .\code\strings\Manacher.cpp
-INPUT code\strings\Manacher.cpp
-INPUT .\code\strings\minimum_expression.cpp
-INPUT .\code\strings\minimum_expression.cpp
-INPUT code\strings\minimum_expression.cpp
 INPUT .\code\strings\trie.cpp
 INPUT .\code\strings\trie.cpp
 INPUT code\strings\trie.cpp
-INPUT .\code\strings\suffix_array.cpp
-INPUT .\code\strings\suffix_array.cpp
-INPUT code\strings\suffix_array.cpp
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1pcr.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1pcr.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1pcr.fd
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8c.tfm
-INPUT .\code\strings\aho_corasick.cpp
-INPUT .\code\strings\aho_corasick.cpp
-INPUT code\strings\aho_corasick.cpp
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8c.vf
-INPUT .\code\strings\suffix_automaton.cpp
-INPUT .\code\strings\suffix_automaton.cpp
-INPUT code\strings\suffix_automaton.cpp
-INPUT .\code\strings\palindromic_tree.cpp
-INPUT .\code\strings\palindromic_tree.cpp
-INPUT code\strings\palindromic_tree.cpp
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
 INPUT .\code\strings\suffix_tree.cpp
 INPUT .\code\strings\suffix_tree.cpp
 INPUT code\strings\suffix_tree.cpp
-INPUT .\code\graph\articulationpointandbridge.cpp
-INPUT .\code\graph\articulationpointandbridge.cpp
-INPUT code\graph\articulationpointandbridge.cpp
-INPUT .\code\graph\blockcuttree.cpp
-INPUT .\code\graph\blockcuttree.cpp
-INPUT code\graph\blockcuttree.cpp
-INPUT .\code\graph\Topo_sort.cpp
-INPUT .\code\graph\Topo_sort.cpp
-INPUT code\graph\Topo_sort.cpp
-INPUT .\code\graph\kosaraju.cpp
-INPUT .\code\graph\kosaraju.cpp
-INPUT code\graph\kosaraju.cpp
-INPUT .\code\graph\tarjanSCC.cpp
-INPUT .\code\graph\tarjanSCC.cpp
-INPUT code\graph\tarjanSCC.cpp
-INPUT .\code\graph\mst_kruskal.cpp
-INPUT .\code\graph\mst_kruskal.cpp
-INPUT code\graph\mst_kruskal.cpp
-INPUT .\code\graph\mst_prim.cpp
-INPUT .\code\graph\mst_prim.cpp
-INPUT code\graph\mst_prim.cpp
-INPUT .\code\graph\dijkstra.cpp
-INPUT .\code\graph\dijkstra.cpp
-INPUT code\graph\dijkstra.cpp
-INPUT .\code\graph\Bellmanford.cpp
-INPUT .\code\graph\Bellmanford.cpp
-INPUT code\graph\Bellmanford.cpp
-INPUT .\code\graph\spfa.cpp
-INPUT .\code\graph\spfa.cpp
-INPUT code\graph\spfa.cpp
-INPUT .\code\graph\floyd_warshall.cpp
-INPUT .\code\graph\floyd_warshall.cpp
-INPUT code\graph\floyd_warshall.cpp
-INPUT .\code\graph\LCA_binarylifting.cpp
-INPUT .\code\graph\LCA_binarylifting.cpp
-INPUT code\graph\LCA_binarylifting.cpp
-INPUT .\code\graph\2sat.cpp
-INPUT .\code\graph\2sat.cpp
-INPUT code\graph\2sat.cpp
-INPUT .\code\graph\2satkosarajuytarjan.cpp
-INPUT .\code\graph\2satkosarajuytarjan.cpp
-INPUT code\graph\2satkosarajuytarjan.cpp
-INPUT .\code\graph\centroid_decomposition.cpp
-INPUT .\code\graph\centroid_decomposition.cpp
-INPUT code\graph\centroid_decomposition.cpp
-INPUT .\code\graph\tree_binarization.cpp
-INPUT .\code\graph\tree_binarization.cpp
-INPUT code\graph\tree_binarization.cpp
-INPUT .\code\graph\eulerian_path.cpp
-INPUT .\code\graph\eulerian_path.cpp
-INPUT code\graph\eulerian_path.cpp
-INPUT .\code\flows\edmons_karp.cpp
-INPUT .\code\flows\edmons_karp.cpp
-INPUT code\flows\edmons_karp.cpp
-INPUT .\code\flows\dinic.cpp
-INPUT .\code\flows\dinic.cpp
-INPUT code\flows\dinic.cpp
-INPUT .\code\flows\pushrelabel.cpp
-INPUT .\code\flows\pushrelabel.cpp
-INPUT code\flows\pushrelabel.cpp
-INPUT .\code\flows\konig.cpp
-INPUT .\code\flows\konig.cpp
-INPUT code\flows\konig.cpp
-INPUT .\code\flows\maxbipmatching.cpp
-INPUT .\code\flows\maxbipmatching.cpp
-INPUT code\flows\maxbipmatching.cpp
-INPUT .\code\flows\hungarian.cpp
-INPUT .\code\flows\hungarian.cpp
-INPUT code\flows\hungarian.cpp
-INPUT .\code\flows\min_cost_max_flow.cpp
-INPUT .\code\flows\min_cost_max_flow.cpp
-INPUT code\flows\min_cost_max_flow.cpp
-INPUT .\code\flows\min_cost_max_flow_marcos.cpp
-INPUT .\code\flows\min_cost_max_flow_marcos.cpp
-INPUT code\flows\min_cost_max_flow_marcos.cpp
-INPUT .\code\flows\blossom.cpp
-INPUT .\code\flows\blossom.cpp
-INPUT code\flows\blossom.cpp
-INPUT .\code\data-structures\unionfind.cpp
-INPUT .\code\data-structures\unionfind.cpp
-INPUT code\data-structures\unionfind.cpp
-INPUT .\code\data-structures\sqrt_decomposition.cpp
-INPUT .\code\data-structures\sqrt_decomposition.cpp
-INPUT code\data-structures\sqrt_decomposition.cpp
-INPUT .\code\data-structures\fenwick_tree.cpp
-INPUT .\code\data-structures\fenwick_tree.cpp
-INPUT code\data-structures\fenwick_tree.cpp
-INPUT .\code\data-structures\fenwick_tree2d.cpp
-INPUT .\code\data-structures\fenwick_tree2d.cpp
-INPUT code\data-structures\fenwick_tree2d.cpp
-INPUT .\code\data-structures\seg_treerecursivo.cpp
-INPUT .\code\data-structures\seg_treerecursivo.cpp
-INPUT code\data-structures\seg_treerecursivo.cpp
-INPUT .\code\data-structures\seg_tree_lazy_prop.cpp
-INPUT .\code\data-structures\seg_tree_lazy_prop.cpp
-INPUT code\data-structures\seg_tree_lazy_prop.cpp
-INPUT .\code\data-structures\seg_tree_persistent.cpp
-INPUT .\code\data-structures\seg_tree_persistent.cpp
-INPUT code\data-structures\seg_tree_persistent.cpp
-INPUT .\code\data-structures\seg_tree_2d_iterativo.cpp
-INPUT .\code\data-structures\seg_tree_2d_iterativo.cpp
-INPUT code\data-structures\seg_tree_2d_iterativo.cpp
-INPUT .\code\data-structures\seg_tree_iterativo.cpp
-INPUT .\code\data-structures\seg_tree_iterativo.cpp
-INPUT code\data-structures\seg_tree_iterativo.cpp
-INPUT .\code\data-structures\RMQ.cpp
-INPUT .\code\data-structures\RMQ.cpp
-INPUT code\data-structures\RMQ.cpp
-INPUT .\code\data-structures\sack.cpp
-INPUT .\code\data-structures\sack.cpp
-INPUT code\data-structures\sack.cpp
-INPUT .\code\data-structures\hld.cpp
-INPUT .\code\data-structures\hld.cpp
-INPUT code\data-structures\hld.cpp
-INPUT .\code\data-structures\treap.cpp
-INPUT .\code\data-structures\treap.cpp
-INPUT code\data-structures\treap.cpp
-INPUT .\code\data-structures\implicit_treap.cpp
-INPUT .\code\data-structures\implicit_treap.cpp
-INPUT code\data-structures\implicit_treap.cpp
-INPUT .\code\data-structures\implicit_treap_father.cpp
-INPUT .\code\data-structures\implicit_treap_father.cpp
-INPUT code\data-structures\implicit_treap_father.cpp
-INPUT .\code\data-structures\ordered_set.cpp
-INPUT .\code\data-structures\ordered_set.cpp
-INPUT code\data-structures\ordered_set.cpp
-INPUT .\code\data-structures\mos_algo.cpp
-INPUT .\code\data-structures\mos_algo.cpp
-INPUT code\data-structures\mos_algo.cpp
-INPUT .\code\data-structures\dynamic_connectivity.cpp
-INPUT .\code\data-structures\dynamic_connectivity.cpp
-INPUT code\data-structures\dynamic_connectivity.cpp
-INPUT .\code\data-structures\link_cut_tree.cpp
-INPUT .\code\data-structures\link_cut_tree.cpp
-INPUT code\data-structures\link_cut_tree.cpp
-INPUT .\code\math\sieve_eratosthenes.cpp
-INPUT .\code\math\sieve_eratosthenes.cpp
-INPUT code\math\sieve_eratosthenes.cpp
-INPUT .\code\math\count_primes.cpp
-INPUT .\code\math\count_primes.cpp
-INPUT code\math\count_primes.cpp
-INPUT .\code\math\segmented_sieve.cpp
-INPUT .\code\math\segmented_sieve.cpp
-INPUT code\math\segmented_sieve.cpp
-INPUT .\code\math\mult_polinomios.cpp
-INPUT .\code\math\mult_polinomios.cpp
-INPUT code\math\mult_polinomios.cpp
-INPUT .\code\math\fft.cpp
-INPUT .\code\math\fft.cpp
-INPUT code\math\fft.cpp
-INPUT .\code\math\fht.cpp
-INPUT .\code\math\fht.cpp
-INPUT code\math\fht.cpp
-INPUT .\code\math\fibolog.cpp
-INPUT .\code\math\fibolog.cpp
-INPUT code\math\fibolog.cpp
-INPUT .\code\math\matrix_expo.cpp
-INPUT .\code\math\matrix_expo.cpp
-INPUT code\math\matrix_expo.cpp
-INPUT .\code\math\binpow.cpp
-INPUT .\code\math\binpow.cpp
-INPUT code\math\binpow.cpp
-INPUT .\code\math\euler_totient_function.cpp
-INPUT .\code\math\euler_totient_function.cpp
-INPUT code\math\euler_totient_function.cpp
-INPUT .\code\math\extended_euclidean.cpp
-INPUT .\code\math\extended_euclidean.cpp
-INPUT code\math\extended_euclidean.cpp
-INPUT .\code\math\inversamod.cpp
-INPUT .\code\math\inversamod.cpp
-INPUT code\math\inversamod.cpp
-INPUT .\code\math\legendre_formula.cpp
-INPUT .\code\math\legendre_formula.cpp
-INPUT code\math\legendre_formula.cpp
-INPUT .\code\math\mobious.cpp
-INPUT .\code\math\mobious.cpp
-INPUT code\math\mobious.cpp
-INPUT .\code\math\miller_rabin.cpp
-INPUT .\code\math\miller_rabin.cpp
-INPUT code\math\miller_rabin.cpp
-INPUT .\code\math\pollard_rho.cpp
-INPUT .\code\math\pollard_rho.cpp
-INPUT code\math\pollard_rho.cpp
-INPUT .\code\math\CRT.cpp
-INPUT .\code\math\CRT.cpp
-INPUT code\math\CRT.cpp
-INPUT .\code\math\simplex.cpp
-INPUT .\code\math\simplex.cpp
-INPUT code\math\simplex.cpp
-INPUT .\code\math\gaussjordan.cpp
-INPUT .\code\math\gaussjordan.cpp
-INPUT code\math\gaussjordan.cpp
-INPUT .\code\math\gaussjordan_modular.cpp
-INPUT .\code\math\gaussjordan_modular.cpp
-INPUT code\math\gaussjordan_modular.cpp
-INPUT .\code\math\berlekamp_massey.cpp
-INPUT .\code\math\berlekamp_massey.cpp
-INPUT code\math\berlekamp_massey.cpp
-INPUT .\code\math\lagrange_interpolation.cpp
-INPUT .\code\math\lagrange_interpolation.cpp
-INPUT code\math\lagrange_interpolation.cpp
-INPUT .\code\math\discrete_log.cpp
-INPUT .\code\math\discrete_log.cpp
-INPUT code\math\discrete_log.cpp
-INPUT .\code\math\frac.cpp
-INPUT .\code\math\frac.cpp
-INPUT code\math\frac.cpp
-INPUT .\code\math\mint.cpp
-INPUT .\code\math\mint.cpp
-INPUT code\math\mint.cpp
-INPUT .\code\dynamic-programming\edit_distance.cpp
-INPUT .\code\dynamic-programming\edit_distance.cpp
-INPUT code\dynamic-programming\edit_distance.cpp
-INPUT .\code\dynamic-programming\lcs.cpp
-INPUT .\code\dynamic-programming\lcs.cpp
-INPUT code\dynamic-programming\lcs.cpp
-INPUT .\code\dynamic-programming\lis.cpp
-INPUT .\code\dynamic-programming\lis.cpp
-INPUT code\dynamic-programming\lis.cpp
-INPUT .\code\dynamic-programming\merging_intervals.cpp
-INPUT .\code\dynamic-programming\merging_intervals.cpp
-INPUT code\dynamic-programming\merging_intervals.cpp
-INPUT .\code\dynamic-programming\sos_dp.cpp
-INPUT .\code\dynamic-programming\sos_dp.cpp
-INPUT code\dynamic-programming\sos_dp.cpp
-INPUT .\code\dynamic-programming\dpdivideandconquer.cpp
-INPUT .\code\dynamic-programming\dpdivideandconquer.cpp
-INPUT code\dynamic-programming\dpdivideandconquer.cpp
-INPUT .\code\dynamic-programming\knuth_optimization.cpp
-INPUT .\code\dynamic-programming\knuth_optimization.cpp
-INPUT code\dynamic-programming\knuth_optimization.cpp
-INPUT .\code\dynamic-programming\chulltrick.cpp
-INPUT .\code\dynamic-programming\chulltrick.cpp
-INPUT code\dynamic-programming\chulltrick.cpp
-INPUT .\code\dynamic-programming\chulltrickdynamic.cpp
-INPUT .\code\dynamic-programming\chulltrickdynamic.cpp
-INPUT code\dynamic-programming\chulltrickdynamic.cpp
-INPUT .\code\geometry\point.cpp
-INPUT .\code\geometry\point.cpp
-INPUT code\geometry\point.cpp
-INPUT .\code\geometry\line.cpp
-INPUT .\code\geometry\line.cpp
-INPUT code\geometry\line.cpp
-INPUT .\code\geometry\convex_hull.cpp
-INPUT .\code\geometry\convex_hull.cpp
-INPUT code\geometry\convex_hull.cpp
-INPUT .\code\geometry\polygon.cpp
-INPUT .\code\geometry\polygon.cpp
-INPUT code\geometry\polygon.cpp
-INPUT .\code\geometry\circle.cpp
-INPUT .\code\geometry\circle.cpp
-INPUT code\geometry\circle.cpp
-INPUT .\code\geometry\radial_order.cpp
-INPUT .\code\geometry\radial_order.cpp
-INPUT code\geometry\radial_order.cpp
-INPUT .\code\geometry\halfplane.cpp
-INPUT .\code\geometry\halfplane.cpp
-INPUT code\geometry\halfplane.cpp
-INPUT .\code\geometry\KDTree.cpp
-INPUT .\code\geometry\KDTree.cpp
-INPUT code\geometry\KDTree.cpp
-INPUT .\code\geometry\minkowski_sum.cpp
-INPUT .\code\geometry\minkowski_sum.cpp
-INPUT code\geometry\minkowski_sum.cpp
-INPUT .\code\miscellaneous\counting_sort.cpp
-INPUT .\code\miscellaneous\counting_sort.cpp
-INPUT code\miscellaneous\counting_sort.cpp
-INPUT .\code\miscellaneous\expression_parsing.cpp
-INPUT .\code\miscellaneous\expression_parsing.cpp
-INPUT code\miscellaneous\expression_parsing.cpp
-INPUT .\code\miscellaneous\ternary_search.cpp
-INPUT .\code\miscellaneous\ternary_search.cpp
-INPUT code\miscellaneous\ternary_search.cpp
+INPUT .\code\graph\dfs_cpbook.cpp
+INPUT .\code\graph\dfs_cpbook.cpp
+INPUT code\graph\dfs_cpbook.cpp
+INPUT .\code\graph\dfs_iterativo_Lucas.cpp
+INPUT .\code\graph\dfs_iterativo_Lucas.cpp
+INPUT code\graph\dfs_iterativo_Lucas.cpp
+INPUT .\code\graph\bfs_cpbook.cpp
+INPUT .\code\graph\bfs_cpbook.cpp
+INPUT code\graph\bfs_cpbook.cpp
+INPUT .\code\graph\bfs_camino_mas_corto.cpp
+INPUT .\code\graph\bfs_camino_mas_corto.cpp
+INPUT code\graph\bfs_camino_mas_corto.cpp
+INPUT .\code\graph\bfs_bipartito.cpp
+INPUT .\code\graph\bfs_bipartito.cpp
+INPUT code\graph\bfs_bipartito.cpp
+INPUT .\code\graph\dfs_detect_cycles.cpp
+INPUT .\code\graph\dfs_detect_cycles.cpp
+INPUT code\graph\dfs_detect_cycles.cpp
+INPUT .\code\graph\dijkstraLucas.cpp
+INPUT .\code\graph\dijkstraLucas.cpp
+INPUT code\graph\dijkstraLucas.cpp
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
+INPUT .\code\data-structures\unordered_map\contar_frecuencias.cpp
+INPUT .\code\data-structures\unordered_map\contar_frecuencias.cpp
+INPUT code\data-structures\unordered_map\contar_frecuencias.cpp
+INPUT .\code\data-structures\unordered_map\existencia_llave.cpp
+INPUT .\code\data-structures\unordered_map\existencia_llave.cpp
+INPUT code\data-structures\unordered_map\existencia_llave.cpp
+INPUT .\code\data-structures\unordered_map\comprimir_indices.cpp
+INPUT .\code\data-structures\unordered_map\comprimir_indices.cpp
+INPUT code\data-structures\unordered_map\comprimir_indices.cpp
+INPUT .\code\data-structures\unordered_map\hashing_pair.cpp
+INPUT .\code\data-structures\unordered_map\hashing_pair.cpp
+INPUT code\data-structures\unordered_map\hashing_pair.cpp
+INPUT .\code\data-structures\unordered_set\ejemplo_basico.cpp
+INPUT .\code\data-structures\unordered_set\ejemplo_basico.cpp
+INPUT code\data-structures\unordered_set\ejemplo_basico.cpp
+INPUT .\code\data-structures\unordered_multimap\ejemplo_basico.cpp
+INPUT .\code\data-structures\unordered_multimap\ejemplo_basico.cpp
+INPUT code\data-structures\unordered_multimap\ejemplo_basico.cpp
+INPUT .\code\data-structures\unordered_multimap\buscar_por_clave.cpp
+INPUT .\code\data-structures\unordered_multimap\buscar_por_clave.cpp
+INPUT code\data-structures\unordered_multimap\buscar_por_clave.cpp
+INPUT .\code\data-structures\unordered_multimap\delete.cpp
+INPUT .\code\data-structures\unordered_multimap\delete.cpp
+INPUT code\data-structures\unordered_multimap\delete.cpp
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind1.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\pictures\UniondFind2.png
+INPUT .\code\data-structures\Uniond_find_Disjoint_cpbook.cpp
+INPUT .\code\data-structures\Uniond_find_Disjoint_cpbook.cpp
+INPUT code\data-structures\Uniond_find_Disjoint_cpbook.cpp
+INPUT .\code\data-structures\fenwick_cpbook.cpp
+INPUT .\code\data-structures\fenwick_cpbook.cpp
+INPUT code\data-structures\fenwick_cpbook.cpp
+INPUT .\code\data-structures\segment_tree_cpbook.cpp
+INPUT .\code\data-structures\segment_tree_cpbook.cpp
+INPUT code\data-structures\segment_tree_cpbook.cpp
+INPUT .\code\data-structures\quickSelect.cpp
+INPUT .\code\data-structures\quickSelect.cpp
+INPUT code\data-structures\quickSelect.cpp
+INPUT .\code\data-structures\order_statistics_tree_cpbook.cpp
+INPUT .\code\data-structures\order_statistics_tree_cpbook.cpp
+INPUT code\data-structures\order_statistics_tree_cpbook.cpp
+INPUT .\code\math\simple_sieve_eratosthenes.cpp
+INPUT .\code\math\simple_sieve_eratosthenes.cpp
+INPUT code\math\simple_sieve_eratosthenes.cpp
+INPUT .\code\math\spf_sieve_eratosthenes.cpp
+INPUT .\code\math\spf_sieve_eratosthenes.cpp
+INPUT code\math\spf_sieve_eratosthenes.cpp
+INPUT .\code\math\spf_sieve_eratosthenes.cpp
+INPUT .\code\math\spf_sieve_eratosthenes.cpp
+INPUT code\math\spf_sieve_eratosthenes.cpp
+INPUT .\code\math\spf_sieve_eratosthenes.cpp
+INPUT .\code\math\spf_sieve_eratosthenes.cpp
+INPUT code\math\spf_sieve_eratosthenes.cpp
 INPUT pictures.tex
 INPUT .\code\pictures\Ascii.jpg
 INPUT .\code\pictures\Ascii.jpg
@@ -569,48 +345,53 @@ INPUT .\code\pictures\DataTypes.jpg
 INPUT .\code\pictures\DataTypes.jpg
 INPUT .\code\pictures\DataTypes.jpg
 INPUT .\code\pictures\DataTypes.jpg
-INPUT Theory.tex
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti7.tfm
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti7.tfm
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\dfs_bfs.png
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Combinatorics.jpg
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Modulo_properties.png
+INPUT .\code\pictures\Pascal_triangle.png
+INPUT .\code\pictures\Pascal_triangle.png
+INPUT .\code\pictures\Pascal_triangle.png
+INPUT .\code\pictures\Pascal_triangle.png
+INPUT .\code\pictures\Pascal_triangle.png
+INPUT .\code\pictures\Pascal_triangle.png
+INPUT .\code\pictures\Pascal_triangle.png
 INPUT notebook.aux
 INPUT .\notebook.out
 INPUT .\notebook.out
-INPUT C:\Users\Lucas Alcoba\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\Lucas Alcoba\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
+INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
-INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrb8a.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrb8a.pfb
 INPUT C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
