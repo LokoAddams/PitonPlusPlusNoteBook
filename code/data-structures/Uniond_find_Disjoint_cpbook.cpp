@@ -17,7 +17,9 @@ public:
     numSets = N;                                 // optional feature
   }
 
-  int findSet(int i) { return (p[i] == i) ? i : (p[i] = findSet(p[i])); }
+  int findSet(int i) { 
+    return (p[i] == i) ? i : (p[i] = findSet(p[i])); //Path Compression
+  }
   bool isSameSet(int i, int j) { return findSet(i) == findSet(j); }
 
   int numDisjointSets() { return numSets; }      // optional

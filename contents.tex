@@ -10,11 +10,7 @@
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/compare_output_linux.bash}
 \subsubsection{windows}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/compare_output_windows.cmd}
-
 \hrulefill
-\subsection{Bits Manipulation}
-\hrulefill
-
 \subsection{Custom Hash}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/custom_hash.cpp}
 \hrulefill
@@ -39,7 +35,13 @@
 \subsection{BFS para camino mas corto de UN nodo a todos los DEMAS}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/bfs_camino_mas_corto.cpp}
 \hrulefill
+\subsection{topological sort O(V+E) - any toposort with simple dfs}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/Topo_sort.cpp}
+\hrulefill
 
+\subsection{topological sort O(V+E) - A specific toposort with bfs (Kahn's algorithm)}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/Topo_sort.cpp}
+\hrulefill
 \subsection{BFS bipartito}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/bfs_bipartito.cpp}
 \hrulefill
@@ -99,9 +101,11 @@ Una misma clave puede tener varios valores asociados
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_multimap/delete.cpp}
 \hrulefill
 
-\subsection{Disjoint Set Union}
+\subsection{Disjoint Set Union - Uniond Find cpbook}
 \paragraph{}
-Cada que unimos dos Sets del mismo RANK(altura subgrafo, rank=4, size=16) nuestro rank aumenta en +1.Entonces para formar un RANK r se necesitan por lo menos $2^r$ vertices.
+Cada que unimos dos Sets del mismo RANK(rank=r=altura - size=s=vertices) nuestro rank aumenta en +1.
+Entonces para formar un RANK r se necesitan por lo menos $2^r$ vertices.
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=\columnwidth]{code/pictures/UniondFind1.png}
@@ -111,6 +115,11 @@ Cada que unimos dos Sets del mismo RANK(altura subgrafo, rank=4, size=16) nuestr
     \centering
     \includegraphics[width=\columnwidth]{code/pictures/UniondFind2.png}
     \caption{Union-Find despues de unir 3 y 5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\columnwidth]{code/pictures/UniondFind3_pathCompresion.png}
+    \caption{Union-Find despues findSet(10) con Path Compression}
 \end{figure}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/Uniond_find_Disjoint_cpbook.cpp}
 \hrulefill
@@ -289,7 +298,7 @@ Q(20) = 400
 \hrulefill
 \subsection{Combinatorics}
 \subsubsection{Next permutation}
-\raggedbottom\lstinputlisting[style=cpp]{code/math/spf_sieve_eratosthenes.cpp}
+\raggedbottom\lstinputlisting[style=cpp]{code/math/Combinatorics/ejemplo_nextPermutation.cpp}
 \hrulefill
 \section{Dynamic Programming}
 \section{Miscellaneous}

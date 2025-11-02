@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.14)  10 SEP 2025 03:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.14)  2 NOV 2025 00:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,12 +512,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
  (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (notebook.toc
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 20.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 21.
  (C:\Users\Lucas Alcoba\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 20.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 21.
 )
 \tf@toc=\write4
 \openout4 = `notebook.toc'.
@@ -539,45 +539,54 @@ LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <10> not available
  [1
 
 
-{C:/Users/Lucas Alcoba/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]) (code/c++/alternativa.cpp) (code/c++/compare_output_linux.bash) (code/c++/compare_output_windows.cmd) (code/c++/custom_hash.cpp) (code/strings/trie.cpp [2]) (code/strings/suffix_tree.cpp) [3] (code/graph/dfs_cpbook.cpp) (code/graph/dfs_iterativo_Lucas.cpp) (code/graph/bfs_cpbook.cpp [4]) (code/graph/bfs_camino_mas_corto.cpp) (code/graph/bfs_bipartito.cpp [5]) (code/graph/dfs_detect_cycles.cpp [6]) (code/graph/dijkstraLucas.cpp)
+{C:/Users/Lucas Alcoba/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]) (code/c++/alternativa.cpp) (code/c++/compare_output_linux.bash) (code/c++/compare_output_windows.cmd) (code/c++/custom_hash.cpp) (code/strings/trie.cpp [2]) (code/strings/suffix_tree.cpp) (code/graph/dfs_cpbook.cpp [3]) (code/graph/dfs_iterativo_Lucas.cpp) (code/graph/bfs_cpbook.cpp [4]) (code/graph/bfs_camino_mas_corto.cpp) (code/graph/Topo_sort.cpp) (code/graph/Topo_sort.cpp) [5] (code/graph/bfs_bipartito.cpp) (code/graph/dfs_detect_cycles.cpp [6]) (code/graph/dijkstraLucas.cpp)
 LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 55.
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []\OT1/cmr/bx/n/12 unordered[]map\OML/cmm/b/it/12 <\OT1/cmr/bx/n/12 clave,valor\OML/cmm/b/it/12 >\OT1/cmr/bx/n/12 (hacer siem-pre RE-
  []
 
-(code/data-structures/unordered_map/contar_frecuencias.cpp [7]) (code/data-structures/unordered_map/existencia_llave.cpp) (code/data-structures/unordered_map/comprimir_indices.cpp) (code/data-structures/unordered_map/hashing_pair.cpp) (code/data-structures/unordered_set/ejemplo_basico.cpp)
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[7] (code/data-structures/unordered_map/contar_frecuencias.cpp) (code/data-structures/unordered_map/existencia_llave.cpp) (code/data-structures/unordered_map/comprimir_indices.cpp) (code/data-structures/unordered_map/hashing_pair.cpp) (code/data-structures/unordered_set/ejemplo_basico.cpp [8])
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
 []\OT1/cmr/bx/n/12 unordered[]multimap\OML/cmm/b/it/12 <\OT1/cmr/bx/n/12 clave,valorES\OML/cmm/b/it/12 >\OT1/cmr/bx/n/12 (hacer siem-pre
  []
 
-(code/data-structures/unordered_multimap/ejemplo_basico.cpp
-LaTeX Font Info:    Font shape `OML/cmr/m/sl' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 12.
- [8]) (code/data-structures/unordered_multimap/buscar_por_clave.cpp) (code/data-structures/unordered_multimap/delete.cpp)
-<code/pictures/UniondFind1.png, id=925, 1016.29688pt x 216.81pt>
+(code/data-structures/unordered_multimap/ejemplo_basico.cpp) (code/data-structures/unordered_multimap/buscar_por_clave.cpp) (code/data-structures/unordered_multimap/delete.cpp)
+<code/pictures/UniondFind1.png, id=940, 1016.29688pt x 216.81pt>
 File: code/pictures/UniondFind1.png Graphic file (type png)
 <use code/pictures/UniondFind1.png>
-Package pdftex.def Info: code/pictures/UniondFind1.png  used on input line 107.
+Package pdftex.def Info: code/pictures/UniondFind1.png  used on input line 111.
 (pdftex.def)             Requested size: 359.8443pt x 76.76462pt.
-<code/pictures/UniondFind2.png, id=927, 1056.94875pt x 264.23718pt>
+<code/pictures/UniondFind2.png, id=942, 1056.94875pt x 264.23718pt>
 File: code/pictures/UniondFind2.png Graphic file (type png)
 <use code/pictures/UniondFind2.png>
-Package pdftex.def Info: code/pictures/UniondFind2.png  used on input line 112.
+Package pdftex.def Info: code/pictures/UniondFind2.png  used on input line 116.
 (pdftex.def)             Requested size: 359.8443pt x 89.9604pt.
- (code/data-structures/Uniond_find_Disjoint_cpbook.cpp [9
+<code/pictures/UniondFind3_pathCompresion.png, id=943, 1041.8925pt x 268.00125pt>
+File: code/pictures/UniondFind3_pathCompresion.png Graphic file (type png)
+<use code/pictures/UniondFind3_pathCompresion.png>
+Package pdftex.def Info: code/pictures/UniondFind3_pathCompresion.png  used on input line 121.
+(pdftex.def)             Requested size: 359.8443pt x 92.55867pt.
+LaTeX Font Info:    Font shape `OML/cmr/m/sl' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 123.
+ [9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.20   int 
-           findSet(int i) { return (p[i] == i) ? i : (p[i] = findSet(p[i])); }
+l.123 \end{figure}
+                   <./code/pictures/UniondFind1.png>] (code/data-structures/Uniond_find_Disjoint_cpbook.cpp [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.20   int 
-           findSet(int i) { return (p[i] == i) ? i : (p[i] = findSet(p[i])); } <./code/pictures/UniondFind1.png> <./code/pictures/UniondFind2.png>]) (code/data-structures/fenwick_cpbook.cpp [10] [11]) (code/data-structures/segment_tree_cpbook.cpp [12]) (code/data-structures/quickSelect.cpp [13]) (code/data-structures/order_statistics_tree_cpbook.cpp) [14] [15] (code/math/simple_sieve_eratosthenes.cpp) (code/math/spf_sieve_eratosthenes.cpp) (code/math/spf_sieve_eratosthenes.cpp) (code/math/spf_sieve_eratosthenes.cpp [16])) (pictures.tex
-<code/pictures/Ascii.jpg, id=1447, 939.51pt x 656.4525pt>
+l.65   for 
+           (int i = 0; i < 5; i++) // findSet will return 1 for {0, 1} and 3...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.65   for 
+           (int i = 0; i < 5; i++) // findSet will return 1 for {0, 1} and 3... <./code/pictures/UniondFind2.png> <./code/pictures/UniondFind3_pathCompresion.png>]) (code/data-structures/fenwick_cpbook.cpp [11]) (code/data-structures/segment_tree_cpbook.cpp [12] [13]) (code/data-structures/quickSelect.cpp) (code/data-structures/order_statistics_tree_cpbook.cpp) [14] [15] (code/math/simple_sieve_eratosthenes.cpp) (code/math/spf_sieve_eratosthenes.cpp [16]) (code/math/spf_sieve_eratosthenes.cpp) (code/math/Combinatorics/ejemplo_nextPermutation.cpp)) (pictures.tex
+<code/pictures/Ascii.jpg, id=1453, 939.51pt x 656.4525pt>
 File: code/pictures/Ascii.jpg Graphic file (type jpg)
 <use code/pictures/Ascii.jpg>
 Package pdftex.def Info: code/pictures/Ascii.jpg  used on input line 3.
@@ -587,82 +596,93 @@ Overfull \hbox (49.87695pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-<code/pictures/DataTypes.jpg, id=1448, 338.76563pt x 183.68625pt>
+<code/pictures/DataTypes.jpg, id=1454, 338.76563pt x 183.68625pt>
 File: code/pictures/DataTypes.jpg Graphic file (type jpg)
 <use code/pictures/DataTypes.jpg>
 Package pdftex.def Info: code/pictures/DataTypes.jpg  used on input line 9.
 (pdftex.def)             Requested size: 307.2929pt x 166.62779pt.
-<code/pictures/dfs_bfs.png, id=1449, 316.93407pt x 158.84344pt>
+[17]
+<code/pictures/dfs_bfs.png, id=1512, 316.93407pt x 158.84344pt>
 File: code/pictures/dfs_bfs.png Graphic file (type png)
 <use code/pictures/dfs_bfs.png>
 Package pdftex.def Info: code/pictures/dfs_bfs.png  used on input line 15.
 (pdftex.def)             Requested size: 307.2929pt x 154.0222pt.
-<code/pictures/Combinatorics.jpg, id=1450, 445.665pt x 277.035pt>
+<code/pictures/Pre-In-Post_order.jpg, id=1513, 642.4pt x 481.8pt>
+File: code/pictures/Pre-In-Post_order.jpg Graphic file (type jpg)
+<use code/pictures/Pre-In-Post_order.jpg>
+Package pdftex.def Info: code/pictures/Pre-In-Post_order.jpg  used on input line 21.
+(pdftex.def)             Requested size: 307.2929pt x 230.47473pt.
+<code/pictures/Combinatorics.jpg, id=1514, 445.665pt x 277.035pt>
 File: code/pictures/Combinatorics.jpg Graphic file (type jpg)
 <use code/pictures/Combinatorics.jpg>
-Package pdftex.def Info: code/pictures/Combinatorics.jpg  used on input line 22.
+Package pdftex.def Info: code/pictures/Combinatorics.jpg  used on input line 28.
 (pdftex.def)             Requested size: 307.2929pt x 191.01907pt.
-<code/pictures/Modulo_properties.png, id=1451, 317.68687pt x 164.86594pt>
+<code/pictures/Modulo_properties.png, id=1515, 317.68687pt x 164.86594pt>
 File: code/pictures/Modulo_properties.png Graphic file (type png)
 <use code/pictures/Modulo_properties.png>
-Package pdftex.def Info: code/pictures/Modulo_properties.png  used on input line 28.
+Package pdftex.def Info: code/pictures/Modulo_properties.png  used on input line 34.
 (pdftex.def)             Requested size: 307.2929pt x 159.48453pt.
-[17
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.31 \end{figure}
-                  <./code/pictures/Ascii.jpg>]
-<code/pictures/Pascal_triangle.png, id=1475, 317.68687pt x 177.66376pt>
-File: code/pictures/Pascal_triangle.png Graphic file (type png)
-<use code/pictures/Pascal_triangle.png>
-Package pdftex.def Info: code/pictures/Pascal_triangle.png  used on input line 35.
-(pdftex.def)             Requested size: 307.2929pt x 171.86464pt.
-) [18
+ [18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.85 \end{multicols}
-                    
+l.37 \end{figure}
+                 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.85 \end{multicols}
-                    
+l.37 \end{figure}
+                 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.85 \end{multicols}
-                    
+l.37 \end{figure}
+                  <./code/pictures/Ascii.jpg> <./code/pictures/DataTypes.jpg> <./code/pictures/dfs_bfs.png>]
+<code/pictures/Pascal_triangle.png, id=1524, 317.68687pt x 177.66376pt>
+File: code/pictures/Pascal_triangle.png Graphic file (type png)
+<use code/pictures/Pascal_triangle.png>
+Package pdftex.def Info: code/pictures/Pascal_triangle.png  used on input line 41.
+(pdftex.def)             Requested size: 307.2929pt x 171.86464pt.
+) [19
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.85 \end{multicols}
-                     <./code/pictures/DataTypes.jpg> <./code/pictures/dfs_bfs.png> <./code/pictures/Combinatorics.jpg> <./code/pictures/Modulo_properties.png>] [19
+l.87 \setlength
+               {\columnseprule}{0pt}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.87 \setlength
-               {\columnseprule}{0pt} <./code/pictures/Pascal_triangle.png>] (notebook.aux)
+               {\columnseprule}{0pt}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.87 \setlength
+               {\columnseprule}{0pt}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.87 \setlength
+               {\columnseprule}{0pt} <./code/pictures/Pre-In-Post_order.jpg> <./code/pictures/Combinatorics.jpg> <./code/pictures/Modulo_properties.png> <./code/pictures/Pascal_triangle.png>] (notebook.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: 5AE24D37E83AF83D5E5B4DCEBDC141D0;8753.
+(rerunfilecheck)             Checksum: A07F18635AFDAAA312D41A265285B1C6;9547.
  ) 
 Here is how much of TeX's memory you used:
- 15401 strings out of 474486
- 240543 string characters out of 5740415
- 2578542 words of memory out of 5000000
- 36177 multiletter control sequences out of 15000+600000
+ 15481 strings out of 474486
+ 242601 string characters out of 5740415
+ 2593542 words of memory out of 5000000
+ 36214 multiletter control sequences out of 15000+600000
  568290 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,13n,95p,571b,2391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,95p,586b,2391s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Lucas Alcoba/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (19 pages, 953143 bytes).
+Output written on notebook.pdf (19 pages, 1037723 bytes).
 PDF statistics:
- 1785 PDF objects out of 2073 (max. 8388607)
- 1207 named destinations out of 1440 (max. 500000)
- 433 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1834 PDF objects out of 2073 (max. 8388607)
+ 1242 named destinations out of 1440 (max. 500000)
+ 451 words of extra memory for PDF output out of 10000 (max. 10000000)
 

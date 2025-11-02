@@ -4,47 +4,48 @@
 \contentsline {subsection}{\numberline {1.3}Comand to compare output}{2}{subsection.1.3}%
 \contentsline {subsubsection}{\numberline {1.3.1}Linux}{2}{subsubsection.1.3.1}%
 \contentsline {subsubsection}{\numberline {1.3.2}windows}{2}{subsubsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.4}Bits Manipulation}{2}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Custom Hash}{2}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Trie}{2}{subsection.1.6}%
-\contentsline {subsection}{\numberline {1.7}Suffix Tree}{3}{subsection.1.7}%
-\contentsline {section}{\numberline {2}Graph algorithms}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}DFS cpbook}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {1.4}Custom Hash}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Trie}{2}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Suffix Tree}{3}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Graph algorithms}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}DFS cpbook}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}DFS iterativo - Lucas}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}BFS cpbook}{4}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}BFS para camino mas corto de UN nodo a todos los DEMAS}{5}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}BFS bipartito}{5}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}DFS detect cycle}{6}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Dijkstra camino mas corto grafo dirigido CON PESOS(O((V+E)log V))}{7}{subsection.2.7}%
-\contentsline {section}{\numberline {3}Data Structures}{7}{section.3}%
-\contentsline {subsection}{\numberline {3.1}unordered\_map\textless clave,valor\textgreater (hacer siempre RESERVE)}{7}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Ejemplo basico Contar frecuencias}{7}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {2.5}topological sort O(V+E) - any toposort with simple dfs}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}topological sort O(V+E) - A specific toposort with bfs (Kahn's algorithm)}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}BFS bipartito}{6}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}DFS detect cycle}{6}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Dijkstra camino mas corto grafo dirigido CON PESOS(O((V+E)log V))}{7}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Data Structures}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}unordered\_map\textless clave,valor\textgreater (hacer siempre RESERVE)}{8}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Ejemplo basico Contar frecuencias}{8}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Buscar existencia de una llave}{8}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Transformar indices dispersos a continuos}{8}{subsubsection.3.1.3}%
 \contentsline {subsubsection}{\numberline {3.1.4}Hashing pair}{8}{subsubsection.3.1.4}%
 \contentsline {subsection}{\numberline {3.2}unordered\_set\textless clave\textgreater (hacer siempre RESERVE)}{8}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}unordered\_multimap\textless clave,valorES\textgreater (hacer siempre RESERVE)}{8}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Ejemplo basico}{8}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3}unordered\_multimap\textless clave,valorES\textgreater (hacer siempre RESERVE)}{9}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Ejemplo basico}{9}{subsubsection.3.3.1}%
 \contentsline {subsubsection}{\numberline {3.3.2}Buscar por clave}{9}{subsubsection.3.3.2}%
 \contentsline {subsubsection}{\numberline {3.3.3}Delete}{9}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Disjoint Set Union}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}Disjoint Set Union - Uniond Find cpbook}{9}{subsection.3.4}%
 \contentsline {paragraph}{}{9}{section*.1}%
-\contentsline {subsection}{\numberline {3.5}Fenwick Tree}{10}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.5}Fenwick Tree}{11}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}Segment Tree}{12}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Order Statistics Tree}{13}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Quick Selct}{13}{subsubsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7}Order Statistics Tree}{14}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Quick Selct}{14}{subsubsection.3.7.1}%
 \contentsline {subsection}{\numberline {3.8}Ordered Statistics Tree}{14}{subsection.3.8}%
-\contentsline {section}{\numberline {4}Math}{14}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Prime Numbers 1-2000}{14}{subsection.4.1}%
+\contentsline {section}{\numberline {4}Math}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Prime Numbers 1-2000}{15}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Serie de Fibonacci (hasta n=20)}{15}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Factorial (hasta n=20)}{15}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Numeros Triangulares (hasta n=20)}{15}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.4}Numeros Triangulares (hasta n=20)}{16}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Numeros Cuadrados (hasta n=20)}{16}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Simple Sieve of Eratosthenes O(n*log(log(n))) - con n=1e7 1.25 MB}{16}{subsection.4.6}%
 \contentsline {subsection}{\numberline {4.7}Smallest Prime Factor AND Sieve of Eratosthenes O(n) - con n=1e7 45 MB}{16}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Smallest Prime Factor Piton++}{16}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}Combinatorics}{16}{subsection.4.9}%
-\contentsline {subsubsection}{\numberline {4.9.1}Next permutation}{16}{subsubsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.8}Smallest Prime Factor Piton++}{17}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Combinatorics}{17}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Next permutation}{17}{subsubsection.4.9.1}%
 \contentsline {section}{\numberline {5}Dynamic Programming}{17}{section.5}%
 \contentsline {section}{\numberline {6}Miscellaneous}{17}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Ternary Search}{17}{subsection.6.1}%
