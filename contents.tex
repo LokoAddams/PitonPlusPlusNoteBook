@@ -2,61 +2,52 @@
 \subsection{C++ template}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/template.cpp}
 \hrulefill
-\subsection{Opcion}
+\subsection{Librerias sino da bits/stdc++}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/alternativa.cpp}
 \hrulefill
-\subsection{Comand to compare output}
+\subsection{Comando para comparar salidas}
 \subsubsection{Linux}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/compare_output_linux.bash}
-\subsubsection{windows}
+\subsubsection{Windows}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/compare_output_windows.cmd}
 \hrulefill
-\subsection{Custom Hash}
-\raggedbottom\lstinputlisting[style=cpp]{code/c++/custom_hash.cpp}
-\hrulefill
-\subsection{Trie}
-\raggedbottom\lstinputlisting[style=cpp]{code/strings/trie.cpp}
-\hrulefill
-\subsection{Suffix Tree}
-\raggedbottom\lstinputlisting[style=cpp]{code/strings/suffix_tree.cpp}
-\hrulefill
-
-\section{Graph algorithms}
+\section{Grafos}
 \subsection{DFS cpbook}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dfs_cpbook.cpp}
 \hrulefill
 \subsection{DFS iterativo - Lucas}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dfs_iterativo_Lucas.cpp}
 \hrulefill
-\subsection{BFS cpbook}
-\raggedbottom\lstinputlisting[style=cpp]{code/graph/bfs_cpbook.cpp}
-\hrulefill
-
-\subsection{BFS para camino mas corto de UN nodo a todos los DEMAS}
+\subsection{BFS - camino mas corto - O(V+E)}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/bfs_camino_mas_corto.cpp}
 \hrulefill
-\subsection{topological sort O(V+E) - any toposort with simple dfs}
-\raggedbottom\lstinputlisting[style=cpp]{code/graph/Topo_sort.cpp}
-\hrulefill
-
-\subsection{topological sort O(V+E) - A specific toposort with bfs (Kahn's algorithm)}
-\raggedbottom\lstinputlisting[style=cpp]{code/graph/Topo_sort.cpp}
-\hrulefill
-\subsection{BFS bipartito}
+\subsection{BFS - bipartito check - Lucas - O(V+E)}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/bfs_bipartito.cpp}
 \hrulefill
-
-\subsection{DFS detect cycle}
+\subsection{BFS - cpbook - camino mas corto - Bipartito check O(V+E)}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/bfs_cpbook.cpp}
+\hrulefill
+\subsection{DFS - detect cycle - O(V+E)}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dfs_detect_cycles.cpp}
 \hrulefill
-
-\subsection{Dijkstra camino mas corto grafo dirigido CON PESOS(O((V+E)log V))}
+\subsection{Dijkstra - Para pesos \textgreater= 0 - (O((V+E)log V))}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dijkstraLucas.cpp}
 \hrulefill
+\subsection{topological sort - any toposort with simple dfs O(V+E)}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/Topo_sort.cpp}
+\hrulefill
+\subsection{topological sort - A specific toposort with bfs (Kahn's algorithm O(V+E))}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/Kahns_toposort.cpp}
+\hrulefill
+\subsection{Tarjan cpbook - Strongly Connected Components O(V+E)}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/tarjan.cpp}
+\hrulefill
+
 \section{Data Structures}
-\subsection{unordered\_map\textless clave,valor\textgreater (hacer siempre RESERVE)}
+\subsection{unordered\_map\textless clave,valor\textgreater}
 Almacena pares clave valor.
 \begin{verbatim}
+// hacer siempre RESERVE
 unordered\_map<int,int> a;
 a.reserve(n*1.33); IMPORTANTEEEEEEE
 n = 1e6 aprox 42.6 MB
@@ -69,39 +60,36 @@ n = 5e6 aprox 213 MB (aún puede entrar, pero ojo con pila
 
 \subsubsection{Ejemplo basico Contar frecuencias}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_map/contar_frecuencias.cpp}
-\hrulefill
 \subsubsection{Buscar existencia de una llave}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_map/existencia_llave.cpp}
-\hrulefill
-\subsubsection{Transformar indices dispersos a continuos}
+\subsubsection{Transformar índices dispersos a continuos}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_map/comprimir_indices.cpp}
-\hrulefill
 \subsubsection{Hashing pair}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_map/hashing_pair.cpp}
 \hrulefill
-\subsection{unordered\_set\textless clave\textgreater (hacer siempre RESERVE)}
+\subsection{unordered\_set\textless clave\textgreater}
 \begin{verbatim}
-No existe acceso aleatorio con h[] ,
+// hacer siempre RESERVE
+No existe acceso aleatorio con [] (índices),
 pero se puede iterar con for auto.
 \end{verbatim}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_set/ejemplo_basico.cpp}
 \hrulefill
 
-\subsection{unordered\_multimap\textless clave,valorES\textgreater (hacer siempre RESERVE)}
+\subsection{unordered\_multimap\textless clave,valores\textgreater}
 \begin{verbatim}
+// hacer siempre RESERVE
 Una misma clave puede tener varios valores asociados
 \end{verbatim}
-\subsubsection{Ejemplo basico}
+\subsubsection{Ejemplo básico}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_multimap/ejemplo_basico.cpp}
-\hrulefill
 \subsubsection{Buscar por clave}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_multimap/buscar_por_clave.cpp}
-\hrulefill
 \subsubsection{Delete}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/unordered_multimap/delete.cpp}
 \hrulefill
 
-\subsection{Disjoint Set Union - Uniond Find cpbook}
+\subsection{Union find - cpbook}
 \paragraph{}
 Cada que unimos dos Sets del mismo RANK(rank=r=altura - size=s=vertices) nuestro rank aumenta en +1.
 Entonces para formar un RANK r se necesitan por lo menos $2^r$ vertices.
@@ -124,26 +112,55 @@ Entonces para formar un RANK r se necesitan por lo menos $2^r$ vertices.
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/Uniond_find_Disjoint_cpbook.cpp}
 \hrulefill
 
-\subsection{Fenwick Tree}
+\subsection{Fenwick Tree - cpbook}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\columnwidth]{code/pictures/Fenwick_tree_create_o(m).png}
+    \caption{Fenwick Tree (Binary Indexed Tree)}
+\end{figure}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/fenwick_cpbook.cpp}
 \hrulefill
 
-\subsection{Segment Tree}
+\subsection{Segment Tree - cpbook}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\columnwidth]{code/pictures/Segment_tree_lazy_propagation.png}
+    \caption{Segment Tree con Lazy Propagation}
+\end{figure}
+UPDATE(l=7,r=23,val=99)\\
+Lo que esta en morado no fue realmente actualizado en A pero si sus rangos(nodos
+ superiores), los nodos encerrados en rojo tuvieron que ser actualizados ya que ningun
+ nodo superior cubre su rango la gran ventaja fue que actualizamos 6 nodos en total en vez
+ de los 16 nodos hoja
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/segment_tree_cpbook.cpp}
 \hrulefill
 
 \subsection{Order Statistics Tree}
-\subsubsection{Quick Selct}
+\subsubsection{Quick Selct - cpbook}
 \begin{verbatim}
 Ranking(v) = posicion del elemento v si el 
 arreglo estuviese ordenado.
 \end{verbatim}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/quickSelect.cpp}
 \hrulefill
-\subsection{Ordered Statistics Tree}
+\subsection{Ordered Statistics Tree - bits/extc++.h}
 \raggedbottom\lstinputlisting[style=cpp]{code/data-structures/order_statistics_tree_cpbook.cpp}
 \hrulefill
-
+\subsection{Priority Queue}
+\raggedbottom\lstinputlisting[style=cpp]{code/data-structures/priority_queue_cmp.cpp}
+\hrulefill
+\subsection{Trie-Recursivo-Lucas}
+\raggedbottom\lstinputlisting[style=cpp]{code/data-structures/Trie_Recursivo_lucas.cpp}
+\hrulefill
+\subsection{Trie-Iterativo-Mati}
+\raggedbottom\lstinputlisting[style=cpp]{code/data-structures/Trie_Iterativo_Mati.cpp}
+\hrulefill
+\subsection{Suffix Tree}
+\raggedbottom\lstinputlisting[style=cpp]{code/strings/suffix_tree.cpp}
+\hrulefill
+\subsection{Custom Hash}
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/custom_hash.cpp}
+\hrulefill
 \section{Math}
 \subsection{Prime Numbers 1-2000}
 \begin{verbatim}
@@ -301,7 +318,8 @@ Q(20) = 400
 \raggedbottom\lstinputlisting[style=cpp]{code/math/Combinatorics/ejemplo_nextPermutation.cpp}
 \hrulefill
 \section{Dynamic Programming}
-\section{Miscellaneous}
-\subsection{Ternary Search}
+\section{Otros}
+\subsection{Binary Search}
+\raggedbottom\lstinputlisting[style=cpp]{code/Others/Binary_search.cpp}
 \hrulefill
 
