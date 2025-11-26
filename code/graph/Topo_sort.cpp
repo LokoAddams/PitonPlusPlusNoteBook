@@ -1,3 +1,5 @@
+// Para que exista un orden topologico
+// el grafo tiene que ser DAG(grafo aciclico dirigido)
 vi g[nax], ts;
 bool seen[nax];
 void dfs(int u){

@@ -11,7 +11,21 @@
 \subsubsection{Windows}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/compare_output_windows.cmd}
 \hrulefill
+\subsection{C++}
+\subsubsection{Ejemplo problematico if-else}
+A primera vista podrías pensar que el else se asocia al primer if (if (a \textgreater 0)), 
+pero en realidad se asocia al segundo (if (b \textgreater 0)).
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/if_else.cpp}
+\hrulefill
+\subsubsection{vector}
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/vector.cpp}
+\hrulefill
 \section{Grafos}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\columnwidth]{code/pictures/pre-in-post_orders.png}
+    \caption{Pre-In-Post Orders DFS}
+\end{figure}
 \subsection{DFS cpbook}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dfs_cpbook.cpp}
 \hrulefill
@@ -30,13 +44,31 @@
 \subsection{DFS - detect cycle - O(V+E)}
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dfs_detect_cycles.cpp}
 \hrulefill
-\subsection{Dijkstra - Para pesos \textgreater= 0 - (O((V+E)log V))}
+\subsection{Dijkstra - O((E + V)log V)}
+- Para pesos \textgreater= 0 porque generan ciclos infinitos, pero si hay negativos pero no pueden generar ciclos
+entonces si se puede usar Dijkstra.
+- O((E + V)log V) implementación con Heap Binario (priorityQueue C++).
+- O(E + V(log V)) implementación con Heap Fibonacci (Teórico) que soporta decreaseKey.
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/dijkstraLucas.cpp}
 \hrulefill
-\subsection{topological sort - any toposort with simple dfs O(V+E)}
+\subsection{Topological sort dfs O(V+E)}
+- Esta version no puede detectar ciclos entonces primero EJECUTAR CYCLE CHECK.
+- Si existe una arista u \textendash{}\textgreater v entonces u aparece antes que v en el orden topológico.
+- Ya que es recursivo no soporta grafos muy grandes mayores o iguales 10$^5$ nodos.
+- El orden topológico solo existe en un DAG (Grafo Dirigido Acíclico). Si el grafo tiene un ciclo, 
+no puedes ordenarlo.
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/Topo_sort.cpp}
 \hrulefill
-\subsection{topological sort - A specific toposort with bfs (Kahn's algorithm O(V+E))}
+\subsection{Topological sort bfs (Kahn's algorithm  con queue O(V+E)/ con priority\_queue O((V+E)log V))}
+- Si existe una arista u \textendash{}\textgreater v entonces u aparece antes que v en el orden topológico.
+- Gracias a que se puede usar una priority\_queue en vez de una queue, obtenemos el orden
+lexicográficamente menor, mayor o cualquier otro orden dependiendo de la comparación que
+definamos en la priority\_queue.
+- El orden topológico solo existe en un DAG (Grafo Dirigido Acíclico). Si el grafo tiene un ciclo, 
+no puedes ordenarlo.
+- Al final del algoritmo, si el número de nodos en tu lista de orden topológico
+ no es igual al número total de nodos en el grafo (N), entonces existe un ciclo.
+ Los nodos que se quedaron con indegree > 0 son parte del ciclo o son alcanzables desde uno.
 \raggedbottom\lstinputlisting[style=cpp]{code/graph/Kahns_toposort.cpp}
 \hrulefill
 \subsection{Tarjan cpbook - Strongly Connected Components O(V+E)}
@@ -200,7 +232,7 @@ arreglo estuviese ordenado.
  1'005'012'527
 \end{verbatim}
 \hrulefill
-\subsection{Serie de Fibonacci (hasta n=20)}
+\subsection{Serie de Fibonacci 0-20}
 \begin{verbatim}
 Def: F(0)=0  ,  F(1)=1  ,   F(n)=F(n-1)+F(n-2)
 F(0) = 0
@@ -226,7 +258,7 @@ F(19) = 4181
 F(20) = 6765
 \end{verbatim}
 \hrulefill
-\subsection{Factorial (hasta n=20)}
+\subsection{Factorial 0-20}
 \begin{verbatim}
 Def: n!=n(n-1)!
 0! = 1
@@ -252,7 +284,7 @@ Def: n!=n(n-1)!
 20! = 2432902008176640000
 \end{verbatim}
 \hrulefill
-\subsection{Numeros Triangulares (hasta n=20)}
+\subsection{Numeros Triangulares 1-20}
 \begin{verbatim}
 Def: T(n)=n(n+1)/2
 
@@ -278,7 +310,7 @@ T(19) = 190
 T(20) = 210
 \end{verbatim}
 \hrulefill
-\subsection{Numeros Cuadrados (hasta n=20)}
+\subsection{Numeros Cuadrados 1-20}
 \begin{verbatim}
 Def: Q(n)=n^2
 
