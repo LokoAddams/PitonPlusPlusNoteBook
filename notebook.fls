@@ -245,6 +245,17 @@ INPUT code/c++/compare_output_linux.bash
 INPUT ./code/c++/compare_output_windows.cmd
 INPUT ./code/c++/compare_output_windows.cmd
 INPUT code/c++/compare_output_windows.cmd
+INPUT ./code/c++/if_else.cpp
+INPUT ./code/c++/if_else.cpp
+INPUT code/c++/if_else.cpp
+INPUT ./code/c++/vector.cpp
+INPUT ./code/c++/vector.cpp
+INPUT code/c++/vector.cpp
+INPUT ./code/pictures/pre-in-post_orders.png
+INPUT ./code/pictures/pre-in-post_orders.png
+INPUT ./code/pictures/pre-in-post_orders.png
+INPUT ./code/pictures/pre-in-post_orders.png
+INPUT ./code/pictures/pre-in-post_orders.png
 INPUT ./code/graph/dfs_cpbook.cpp
 INPUT ./code/graph/dfs_cpbook.cpp
 INPUT code/graph/dfs_cpbook.cpp
@@ -263,7 +274,6 @@ INPUT code/graph/bfs_cpbook.cpp
 INPUT ./code/graph/dfs_detect_cycles.cpp
 INPUT ./code/graph/dfs_detect_cycles.cpp
 INPUT code/graph/dfs_detect_cycles.cpp
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT ./code/graph/dijkstraLucas.cpp
 INPUT ./code/graph/dijkstraLucas.cpp
 INPUT code/graph/dijkstraLucas.cpp
@@ -276,6 +286,7 @@ INPUT code/graph/Kahns_toposort.cpp
 INPUT ./code/graph/tarjan.cpp
 INPUT ./code/graph/tarjan.cpp
 INPUT code/graph/tarjan.cpp
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT ./code/data-structures/unordered_map/contar_frecuencias.cpp
 INPUT ./code/data-structures/unordered_map/contar_frecuencias.cpp
 INPUT code/data-structures/unordered_map/contar_frecuencias.cpp
@@ -416,6 +427,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
