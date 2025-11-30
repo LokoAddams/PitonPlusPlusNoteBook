@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1764181996.48749 "/home/lucas-alcoba/Documents/PitonPlusPlusNoteBook/notebook.tex" "notebook.pdf" "notebook" 1764181999.16016 0
+["pdflatex"] 1764182057.03973 "/home/lucas-alcoba/Documents/PitonPlusPlusNoteBook/notebook.tex" "notebook.pdf" "notebook" 1764182059.35005 0
   "/etc/texmf/web2c/texmf.cnf" 1764152818.03141 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/lucas-alcoba/Documents/PitonPlusPlusNoteBook/notebook.tex" 1764151500.98321 2186 59e8c0f7ea4c9a799776601f27438c12 ""
+  "/home/lucas-alcoba/Documents/PitonPlusPlusNoteBook/notebook.tex" 1764182055.3609 2186 59e8c0f7ea4c9a799776601f27438c12 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm" 1136768653 960 4ab65358b8406f30ef5496c8c096d22b ""
@@ -177,10 +177,10 @@
   "code/pictures/pre-in-post_orders.png" 1764181989.37372 486055 1a483eafd507d62baaa5dd7458a28e9f ""
   "code/strings/suffix_tree.cpp" 1764151500.97192 2668 87744aaa9652b3f7152b9901bf1c1d9a ""
   "contents.tex" 1764181989.37383 12261 e478574d828caa8beb441ecb629f5810 ""
-  "notebook.aux" 1764181999.07992 16255 a9dd1f81c2e31f7740392ea8538f4078 "pdflatex"
-  "notebook.out" 1764181999.08192 10495 36c606c2569cdb64f60279ded193910c "pdflatex"
-  "notebook.tex" 1764151500.98321 2186 59e8c0f7ea4c9a799776601f27438c12 ""
-  "notebook.toc" 1764181999.08192 5307 963d74f07b38474cf8a1c5454a8ef026 "pdflatex"
+  "notebook.aux" 1764182059.29614 16255 a9dd1f81c2e31f7740392ea8538f4078 "pdflatex"
+  "notebook.out" 1764182059.29695 10495 36c606c2569cdb64f60279ded193910c "pdflatex"
+  "notebook.tex" 1764182055.3609 2186 59e8c0f7ea4c9a799776601f27438c12 ""
+  "notebook.toc" 1764182059.29812 5307 963d74f07b38474cf8a1c5454a8ef026 "pdflatex"
   "pictures.tex" 1764151500.98321 1234 de94c3c6b1a624f710203e3a1c1dbd6e ""
   (generated)
   "notebook.aux"

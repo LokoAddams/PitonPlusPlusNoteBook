@@ -13,11 +13,11 @@ spf[5/5] = spf[1] = 1
 */
 void build_spf() {
     spf.resize(MAX_A + 1);
-    for (int i = 1; i <= MAX_A; i++)
+    for (int i = 1; i <= MAX_A - 1; i++)
         spf[i] = i;
-    for (int i = 2; i * i <= MAX_A; i++) {
+    for (int i = 2; i * i <= MAX_A - 1; i++) {
         if (spf[i] == i) {
-            for (int j = i * i; j <= MAX_A; j += i) {
+            for (int j = i * i; j <= MAX_A - 1; j += i) {
                 if (spf[j] == j)
                     spf[j] = i;
             }
