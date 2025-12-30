@@ -5,8 +5,26 @@
 \subsection{Librerias sino da bits/stdc++}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/alternativa.cpp}
 \hrulefill
-\subsection{Tasks.json LINUX}
+\subsection{task.json LINUX}
+Para Run test cases automáticamente, copiar y pegar para python y cambiar
+\begin{verbatim}
+    ESTO: \"./$base\" < \"$f\" > .tmp;
+    por ESTO: pypy3 \"$base.py\" < \"$f\" > .tmp;
+\end{verbatim}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/tasks.json}
+\hrulefill
+\subsection{launch.json LINUX}
+Para debuggear con gdb
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/launch.json}
+\hrulefill
+\subsection{settings.json LINUX}
+Para que ctrl+alt+n ejecute con pypy3
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/settings.json}
+\hrulefill
+
+\subsection{keybindings.json LINUX}
+>open keyboard shortcuts (JSON)
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/keybindings.json}
 \hrulefill
 \subsection{Comando para comparar salidas}
 \subsubsection{Linux}
@@ -23,6 +41,11 @@ pero en realidad se asocia al segundo (if (b \textgreater 0)).
 \subsubsection{vector}
 \raggedbottom\lstinputlisting[style=cpp]{code/c++/vector.cpp}
 \hrulefill
+\subsection{Funciones STL}
+\subsubsection{Operator para poder usar sort con estructuras propias}
+\raggedbottom\lstinputlisting[style=cpp]{code/c++/operator_to_sort.cpp}
+\hrulefill
+
 \section{Grafos}
 \begin{figure}[H]
     \centering
@@ -52,7 +75,7 @@ pero en realidad se asocia al segundo (if (b \textgreater 0)).
 entonces si se puede usar Dijkstra.
 - O((E + V)log V) implementación con Heap Binario (priorityQueue C++).
 - O(E + V(log V)) implementación con Heap Fibonacci (Teórico) que soporta decreaseKey.
-\raggedbottom\lstinputlisting[style=cpp]{code/graph/dijkstraLucas.cpp}
+\raggedbottom\lstinputlisting[style=cpp]{code/graph/dijkstraLucasAcortado.cpp}
 \hrulefill
 \subsection{Topological sort dfs O(V+E)}
 - Esta version no puede detectar ciclos entonces primero EJECUTAR CYCLE CHECK.
@@ -348,10 +371,27 @@ Q(20) = 400
 \subsection{Smallest Prime Factor Piton++}
 \raggedbottom\lstinputlisting[style=cpp]{code/math/spf_sieve_eratosthenes.cpp}
 \hrulefill
+
+\subsection{Binary Exponentiation - cpbook}
+La opcion mas rapida es en python usar "pow(base,exponente,mod)"
+\raggedbottom\lstinputlisting[style=cpp]{code/math/binpow.cpp}
+\hrulefill
 \subsection{Combinatorics}
 \subsubsection{Next permutation}
 \raggedbottom\lstinputlisting[style=cpp]{code/math/Combinatorics/ejemplo_nextPermutation.cpp}
 \hrulefill
+
+\subsubsection{Combinatoria nCr - implementación recursiva Lucas - Triangulo de Pascal O(n*r)}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\columnwidth]{code/pictures/Combinatoria_nCr.png}
+    \caption{Combinación de n elementos tomados de r en r}
+\end{figure}
+
+\raggedbottom\lstinputlisting[style=cpp]{code/math/Combinatorics/nCr.cpp}
+\hrulefill
+
+
 \section{Dynamic Programming}
 \section{Otros}
 \subsection{Binary Search}

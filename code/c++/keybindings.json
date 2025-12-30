@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+enter",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Run test cases (C++,linux)",
+    "when": "resourceExtname == .cpp"
+  },
+  {
+    "key": "ctrl+enter",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Run test cases (python, linux)",
+    "when": "resourceExtname == .py"
+  }
+]
